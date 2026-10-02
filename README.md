@@ -27,7 +27,7 @@ excluded from the statistics.
 - A batched ring variant with 1.83–3.08× median throughput at capacity 64, measured in a reproducible 80-run study
 - An interactive terminal lab for seeded experiments, run history and comparisons; CI runs GCC and Clang with sanitizers
 
-### 🤖 [MLForge](https://github.com/noaml21/ml-from-scratch): an end-to-end, local-first ML workbench
+### 🤖 [MLForge](https://github.com/noaml21/mlforge): an end-to-end, local-first ML workbench
 `Python` · `scikit-learn` · `NumPy` · `Textual`
 
 A terminal application that takes a tabular dataset from a raw file to an evaluated model, then exports that model
